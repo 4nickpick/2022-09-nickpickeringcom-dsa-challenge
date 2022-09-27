@@ -1,6 +1,6 @@
-# 2022-09-nickpickeringcom-dsa-challenge
+# Data Structures and Algorithms Challenge
 
-Data Structures and Algorithms Challenge! 
+Hosted by NickPickering.com
 
 Deadline: Thurs, Sept 22nd at 11:59 PM EST
 
