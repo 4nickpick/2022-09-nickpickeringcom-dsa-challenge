@@ -14,13 +14,22 @@ Write a function that accepts a multi-dimensional array of Boolean values.
 Return a multi-dimensional array where each row and column in the input array that contain a true value have had all values changed to true. 
 
 Example Input:
+```
 F T F F 
-F F F T
-F F F F 
-F F F F
 
+F F F T
+
+F F F F 
+
+F F F F
+```
 Example Output:
+```
 T T T T
+
 T T T T
+
 F T F T
+
 F T F T
+```
